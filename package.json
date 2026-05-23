@@ -1,0 +1,19 @@
+{
+  "name": "mailassistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "imap": "^0.8.19",
+    "mailparser": "^3.9.8",
+    "nodemailer": "^8.0.7"
+  }
+}
